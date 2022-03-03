@@ -7,6 +7,8 @@ Created on 22 november 2012
 By Enrico Gueli, enrico.gueli@gmail.com
 modified 22 Dec 2012
 by Tom Igoe
+
+Edited with this line by Peter Dawson
 */
  
 #include <Esplora.h>
